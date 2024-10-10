@@ -22,3 +22,10 @@ A collection title provides a human readable short description of the given coll
 
 include::../requirements/core/REQ_collection_title.adoc[]
 
+=== Collection license
+
+A license describes the usage permissions for the data in a collection.
+
+include::../requirements/core/REQ_collection_license.adoc[]
+
+
